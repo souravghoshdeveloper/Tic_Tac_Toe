@@ -10,7 +10,7 @@
     <string name="hello_first_fragment">Hello first fragment</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
     <string name="heading">Welcome to Tic Tac Toe</string>
-    <string name="status">Tap to play</string>
-    <string name="grid">Developed by Bawal Party</string>
+    <string name="status">© Develped by Innovative Developer Group</string>
+    <string name="grid">Develped by Innovative Developer Group</string>
     <string name="developed_by_Innovative_Developer_Group">Developed by Innovative Developer Group</string>
 </resources>
